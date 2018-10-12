@@ -92,11 +92,6 @@ class SiteController extends Controller
         ]);
     }
 
-    public function actionCommentAdd()
-    {
-        return 1;
-    }
-
     /**
      * Logs in a user.
      *
